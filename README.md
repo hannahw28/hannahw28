@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hannahw28
-- 👀 I’m interested in a shift in career from social science to data science or computer science (haven't decided on which path yet)
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning Python, SQL, R, machine learning, data science, etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...I can be reached at dove.fry@gmail.com
