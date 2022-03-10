@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hannahw28
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Python, SQL, R, machine learning, data science, etc.
+- 🌱 I’m currently learning data structure and algorithm, and programming in Java and Python. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...I can be reached at hannah.x.wu@gmail.com
 
